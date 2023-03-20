@@ -8,7 +8,7 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Eronildo-ht&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eronildo-Andrade&hide_progress=true&theme=tokyonight"/>
   </a>
 
 #### Skills ⚡
