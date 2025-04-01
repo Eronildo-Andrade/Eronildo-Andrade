@@ -2,7 +2,6 @@
 
 #### About me:
 - I am an front-end developer
-- Pronouns: He/Him
 
   <a href="https://github.com/Eronildo-ht">
   <br>
